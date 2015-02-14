@@ -1,0 +1,53 @@
+[18:35:22] [main/INFO]: Logging in with username & password
+[18:35:26] [main/INFO]: Setting user: Asyncronos
+[18:35:28] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:35:28] [Client thread/ERROR]: Couldn't initialize twitch stream
+[18:35:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SkyblockSpawnControl
+[18:35:35] [Sound Library Loader/INFO]: Sound engine started
+[18:35:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:35:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:35:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SkyblockSpawnControl
+[18:35:36] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:35:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:35:38] [Sound Library Loader/INFO]: Sound engine started
+[18:35:45] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:35:45] [Server thread/INFO]: Generating keypair
+[18:35:46] [Server thread/INFO]: Preparing start region for level 0
+[18:35:46] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:35:47] [Server thread/INFO]: Asyncronos[local:E:2fd2d84a] logged in with entity id 0 at (-53.5, 56.0, 472.5)
+[18:35:47] [Server thread/INFO]: Asyncronos joined the game
+[18:35:47] [Server thread/WARN]: Wrong location! EntityPlayerMP['Asyncronos'/0, l='New World', x=0.00, y=63.00, z=0.00] (at 0, 0 instead of -4, 29)
+[18:36:00] [Server thread/INFO]: Saving and pausing game...
+[18:36:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:36:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:36:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:36:02] [Server thread/INFO]: Saving and pausing game...
+[18:36:02] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:36:02] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:36:02] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:36:03] [Client thread/INFO]: Started on 44863
+[18:36:03] [Client thread/INFO]: [CHAT] Local game hosted on port 44863
+[18:36:06] [Server thread/INFO]: Stopping server
+[18:36:06] [Server thread/INFO]: Saving players
+[18:36:06] [Server thread/INFO]: Saving worlds
+[18:36:06] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:36:06] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:36:06] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:36:08] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:36:08] [Server thread/INFO]: Generating keypair
+[18:36:08] [Server thread/INFO]: Preparing start region for level 0
+[18:36:08] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:36:08] [Server thread/INFO]: Asyncronos[local:E:9f8f6df7] logged in with entity id 26952 at (-7.610452885273844E-4, 56.0, 35.289309273614805)
+[18:36:08] [Server thread/INFO]: Asyncronos joined the game
+[18:36:08] [Server thread/WARN]: Wrong location! EntityPlayerMP['Asyncronos'/26952, l='New World', x=0.00, y=63.00, z=-1024.00] (at 0, -64 instead of -1, 2)
+[18:36:18] [Server thread/INFO]: Saving and pausing game...
+[18:36:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:36:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:36:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:36:18] [Server thread/INFO]: Stopping server
+[18:36:18] [Server thread/INFO]: Saving players
+[18:36:18] [Server thread/INFO]: Saving worlds
+[18:36:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:36:18] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:36:18] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:36:19] [Client thread/INFO]: Stopping!

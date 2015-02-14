@@ -7,8 +7,10 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.event.FMLServerStartingEvent;
+import net.minecraftforge.common.MinecraftForge;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import ssc.common.event.EntityEventHandler;
 
 @Mod(
         modid = "SSC",
@@ -28,7 +30,7 @@ public final class SkyblockSpawnControl{
 
     @EventHandler
     public void onInit(FMLInitializationEvent e){
-
+        MinecraftForge.EVENT_BUS.register(new EntityEventHandler());
     }
 
     @EventHandler
