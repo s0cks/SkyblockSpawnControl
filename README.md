@@ -1,1 +1,1 @@
-# SkyblockSpawnControl
+# Skyblock Spawn Control
